@@ -29,6 +29,17 @@ Click on the extension icon in the Chrome toolbar to open the popup interface. C
 
 ## Folder Structure
 
+```
+random-password-generator-chrome-extension/
+│
+├── icons/
+│   ├── icon.png
+│   └── icon48.png
+├── manifest.json
+├── popup.html
+└── popup.js
+```
+
 - **icons:** Contains the extension icons in different sizes.
 - **manifest.json:** Describes the extension and its properties.
 - **popup.html:** HTML file for the extension's popup interface.
