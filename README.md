@@ -5,17 +5,18 @@ This Chrome extension generates random passwords to enhance the security of your
 ## Installation
 
 1. Clone this repository or download the ZIP file.
-   ```bash
+
+```bash
    git clone https://github.com/your-username/random-password-generator-chrome-extension.git
-   ```
+```
 
-2. Open Chrome and navigate to `chrome://extensions/`.
+1. Open Chrome and navigate to `chrome://extensions/`.
 
-3. Enable "Developer mode" in the top right corner.
+2. Enable "Developer mode" in the top right corner.
 
-4. Click on "Load unpacked" and select the root folder of the cloned/downloaded repository.
+3. Click on "Load unpacked" and select the root folder of the cloned/downloaded repository.
 
-5. The extension should now be installed and visible in the Chrome toolbar.
+4. The extension should now be installed and visible in the Chrome toolbar.
 
 ## Usage
 
