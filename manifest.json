@@ -4,7 +4,7 @@
   "version": "1.0",
   "description": "Generate random passwords with this extension.",
   "permissions": ["storage"],
-  "browser_action": {
+  "action": {
     "default_popup": "popup.html",
     "default_icon": {
       "16": "icons/icon16.png",
