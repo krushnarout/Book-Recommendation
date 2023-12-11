@@ -30,7 +30,7 @@ Click on the extension icon in the Chrome toolbar to open the popup interface. C
 
 ## Folder Structure
 
-```
+```markdown
 random-password-generator-chrome-extension/
 │
 ├── icons/
